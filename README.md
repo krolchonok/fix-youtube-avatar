@@ -1,1 +1,1 @@
-# fix-youtube-avatar
+# one page site with info about extension
